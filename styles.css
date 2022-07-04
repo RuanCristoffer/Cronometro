@@ -15,13 +15,13 @@ img{
     margin-left: auto;
 }
 #caixa-numeros{
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     width: 340px;
     background: white;
     border-radius: 6px;
-    padding-left: 10px;
+    justify-content: center;
     
 }
 
